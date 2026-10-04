@@ -1,0 +1,19 @@
+<suite name="batch-suite">
+
+	<test name="test">
+
+		<classes>
+
+
+			<class name="Types_of_Execution.Demo1test" />
+			<class name="Types_of_Execution.Demo2test" />
+			<class name="Types_of_Execution.Demo3test" />
+
+
+		</classes>
+
+
+	</test>
+
+
+</suite>

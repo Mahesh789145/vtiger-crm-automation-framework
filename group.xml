@@ -1,0 +1,22 @@
+<suite name ="group-suite">
+	<test name="test">
+		<groups>
+			<run>
+			<include name="regression" />
+			</run>
+
+		</groups>
+		<classes>
+
+			<class name="Types_of_Execution.Demo1test" />
+			<class name="Types_of_Execution.Demo2test" />
+			<class name="Types_of_Execution.Demo3test" />
+
+
+		</classes>
+
+
+	</test>
+
+
+</suite>

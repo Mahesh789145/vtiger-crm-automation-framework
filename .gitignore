@@ -1,0 +1,10 @@
+target/
+test-output/
+bin/
+.settings/
+.classpath
+.project
+src/test/java/Practice/
+src/test/java/Project/AllcodeDDT.java
+src/test/java/Project/DDT_Excel.java
+src/test/java/Project/Leads.java

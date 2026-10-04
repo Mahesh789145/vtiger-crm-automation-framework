@@ -1,0 +1,28 @@
+<suite name="batch-suite"  parallel ="tests" thread-count = "3">
+
+	<test name="testRunner1">
+		<classes>
+
+			<class name="Types_of_Execution.Demo1test" />
+		</classes>
+
+	</test>
+
+	<test name="testRunner2">
+		<classes>
+
+			<class name="Types_of_Execution.Demo2test" />
+		</classes>
+
+	</test>
+
+	<test name="testRunner3">
+		<classes>
+
+			<class name="Types_of_Execution.Demo3test" />
+		</classes>
+
+	</test>
+
+
+</suite>
